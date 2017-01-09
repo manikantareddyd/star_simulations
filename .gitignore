@@ -1,2 +1,5 @@
 data/*
 !Readme.md
+venv/
+*.pyc
+*-checkpoint.ipynb
